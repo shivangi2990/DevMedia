@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Montserrat', sans-serif !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.bs1{
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px !important;
+
+}
+.register-div{  
+  margin-top:150px !important;
+}
+input button, textarea{
+  border:1px solid black !important;
+}
+input[type='file']{
+  border: none !important;
+}
+.profilepic1{
+  
+  font-weight: bold;
+  font-size:20px !important;
+  background-color: gray;
+  border-radius: 50%;
+  height:40px;
+  width:40px;
+  color:white;
+  
+}
+img{
+  border-radius: 5px !important;
+}
+.postimage{
+  height:400px;
+  width:100% !important;
+  margin-top:10px;
+
+}
+p{
+  color:gray;
+  margin: 5px !important;
+  font-size:18px ;
+}
+.anticon svg{
+  font-size: 20px !important;
+}
+.date{
+text-align: end !important;
+}
+.profilepic2{
+  
+  height:50px !important;
+  width:50px !important;
+ text-transform:uppercase;
+ border-radius:50%;
+ background-color:grey !important;
+ text-align:center !important;
+ font-size:35px !important;
+ font-weight:bold !important;
+ color:white !important;
+  
+}
